@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### **Файловая структура**
-
+```
 react/
 ├── components/             # 
     ├── containers/			#
@@ -103,3 +103,4 @@ react/
     └── urls.js             # 
 ├── store/                 	# 
 └── locals/                 # 
+```
