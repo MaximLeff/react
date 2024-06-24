@@ -74,33 +74,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```
 react/
 ├── components/             # 
-    ├── containers/			#
-    ├── inputs/				#
-    ├── forms/				#
-    ├── sliders/			#
-    ├── icons/				#
-    ├── cards/				#
-	└── ui/		            # 
-├── pages/               	# 
-├── views/          		# 
-├── sections/            	# 
-├── popups/                	# 
-├── styles/               	# 
-	├── fonts/            	# 
-		└── font_name.woff	#
-	├── global.scss        	# 
-	├── text.scss          	# 
-	├── variation.scss      # 
-	└── animation.js		#
-├── scripts/       			# 
-	├── helpers/       		# 
-	├── hooks/       		# 
-	└── backend/            # 
+    ├── containers/         #
+    ├── inputs/             #
+    ├── forms/              #
+    ├── sliders/            #
+    ├── icons/              #
+    ├── cards/              #
+    └── ui/                 # 
+├── pages/                  # 
+├── views/                  # 
+├── sections/               # 
+├── popups/                 # 
+├── styles/                 # 
+    ├── fonts/              # 
+        └── font_name.woff  #
+    ├── global.scss         # 
+    ├── text.scss           # 
+    ├── variation.scss      # 
+    └── animation.js        #
+├── scripts/                # 
+    ├── helpers/            # 
+    ├── hooks/              # 
+    └── backend/            # 
 └── constants/              # 
     ├── settings.js         # 
     ├── api.js              # 
-    ├── secret.js      		# 
+    ├── secret.js           # 
     └── urls.js             # 
-├── store/                 	# 
+├── store/                  # 
 └── locals/                 # 
 ```
